@@ -1,2 +1,2 @@
 ## This is the Git tutorial by Krish Naik. I am learning git.
-## Issue resolved.
+## Issue resolved. Still Learning.
